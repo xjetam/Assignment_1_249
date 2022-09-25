@@ -1,8 +1,6 @@
 import java.util.Scanner;
 
 class firstClass{
-    
-    
     public static void main(String[] args) {
         Scanner userInput = new Scanner(System.in);
         System.out.println("\n\n\nHello my friend.");
@@ -14,5 +12,4 @@ class firstClass{
 
         userInput.close();
     }
-
 }
